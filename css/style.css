@@ -56,3 +56,31 @@ body {
   position: relative;
   z-index: 1;
 }
+
+
+.card1 {
+  background-image: url("https://thumbs.dreamstime.com/b/programming-code-abstract-technology-background-software-deve-developer-computer-script-96434780.jpg");
+  font-family: 'Arial Black', Gadget, sans-serif;
+  font-weight: bold;
+  border: 3px solid #0059ff;  
+}
+
+/*    def font    */
+.card2 {
+  background-image: url('https://berriesandbarnacles.com/wp-content/uploads/2021/04/Why-an-author-photo-matters-and-how-to-make-sure-you-have-a-good-photo.-300x300.jpg');
+  font-family: 'Georgia', serif;
+  font-style: italic;
+  border: 3px solid #00ff66;  
+}
+
+/* title */
+.card h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* info */
+.card p {
+  font-size: 1.2rem;
+  line-height: 1.4;
+}
